@@ -5,3 +5,9 @@ Après avoir ajouté des fichiers en **staging** avec `git add`, on crée le com
 ```sh
 git commit
 ```
+
+L'éditeur de texte s'ouvre, et le template de commit pré-rempli le message.
+Il se trouve dans:
+```
+/home/aymdev/.gitmessage
+```
